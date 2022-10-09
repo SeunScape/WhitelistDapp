@@ -1,4 +1,3 @@
-* text=auto
 *           text=auto     # auto
 *.txt       text
 *.vcproj    text eol=crlf # windows line-endings
